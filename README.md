@@ -137,10 +137,7 @@ I also practice network infrastructure configuration and troubleshooting using C
 
 ### Security Operations & SIEM
 
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_Monitor_Agent-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /><img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white" /><img src="https://img.shields.io/badge/Azure_Monitor_Agent-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 
 ### Endpoint Security & Investigation
 

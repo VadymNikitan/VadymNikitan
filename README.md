@@ -97,9 +97,7 @@ A hands-on Security Operations lab built in Microsoft Azure, focused on realisti
 ### 2. Cisco Packet Tracer — Networking Labs
 
 <a href="https://github.com/VadymNikitan/CISCO-Packet-Tracer-Labs">
-<img src="https://img.shields.io/badge/Repository-View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Status-Ongoing-2EA44F?style=for-the-badge" />
+
 
 A collection of hands-on networking labs built and tested using Cisco Packet Tracer.
 

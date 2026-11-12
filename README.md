@@ -96,13 +96,6 @@ A hands-on Security Operations lab built in Microsoft Azure, focused on realisti
 
 ### 2. Cisco Packet Tracer — Networking Labs
 
-<a href="https://github.com/VadymNikitan/CISCO-Packet-Tracer-Labs">
-
-
-A collection of hands-on networking labs built and tested using Cisco Packet Tracer.
-
-**Completed Labs:**
-
 | Lab | Main Topics | Status |
 |---|---|---|
 | [Connecting Two LANs Using Static Routing](https://github.com/VadymNikitan/CISCO-Packet-Tracer-Labs/tree/main/01-connecting-two-lans-using-static-routing) | IPv4, Subnetting, Static Routing | Completed |

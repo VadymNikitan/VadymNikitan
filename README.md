@@ -141,27 +141,19 @@ I also practice network infrastructure configuration and troubleshooting using C
 
 ### Endpoint Security & Investigation
 
-<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Atomic_Red_Team-000000?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white" /><img src="https://img.shields.io/badge/Atomic_Red_Team-000000?style=flat-square&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /><img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
 
 ### Security Frameworks & Analysis
 
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/CyberChef-333333?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/CyberChef-333333?style=flat-square&logoColor=white" />
 
 ### Networking
 
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/VLANs-00599C?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/DHCP-00599C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/VLANs-00599C?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/DHCP-00599C?style=flat-square&logoColor=white" />
 
 ### Operating Systems
 
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 ---
 

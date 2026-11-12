@@ -177,6 +177,10 @@ A hands-on Security Operations lab built in Microsoft Azure, focused on realisti
 |---|---|---|
 | [PowerShell Encoded Command Execution](https://github.com/VadymNikitan/SOC-Home-Lab-Azure/tree/main/cases/001-PowerShell-EncodedCommand) | T1059.001 | Completed |
 | [SMB Password Spraying Detection](https://github.com/VadymNikitan/SOC-Home-Lab-Azure/tree/main/cases/002-SMB-Password-Spraying-Detection) | T1110.003 | Completed |
+| [RDP Password Guessing Detection](https://github.com/VadymNikitan/SOC-Home-Lab-Azure/tree/main/cases/003-RDP-Password-Guessing-Detection) | T1110.001 | Completed |
+| [FTP Brute Force Detection](https://github.com/VadymNikitan/SOC-Home-Lab-Azure/tree/main/cases/004-Password-Guessing-Detection) | T1110 | Completed |
+| [Real SSH Brute-Force Detection](https://github.com/VadymNikitan/SOC-Home-Lab-Azure/tree/main/cases/005-Real-SSH-Password-Spraying-Investigation) | Completed |
+
 
 **Skills Demonstrated:**
 

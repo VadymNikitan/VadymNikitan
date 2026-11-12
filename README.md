@@ -133,27 +133,19 @@ I also practice network infrastructure configuration and troubleshooting using C
 
 ---
 
-## Technical Skills & Technologies
+## Technical Skills
 
-### Security Operations & SIEM
+**Security Operations:** Microsoft Sentinel, KQL, SIEM Monitoring, Alert Investigation, Threat Hunting
 
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /><img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white" /><img src="https://img.shields.io/badge/Azure_Monitor_Agent-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+**Endpoint Security:** Sysmon, Atomic Red Team, PowerShell, Windows Event Logs
 
-### Endpoint Security & Investigation
+**Security Frameworks:** MITRE ATT&CK
 
-<img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white" /><img src="https://img.shields.io/badge/Atomic_Red_Team-000000?style=flat-square&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /><img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
+**Cloud:** Microsoft Azure, Log Analytics Workspace, Azure Monitor Agent
 
-### Security Frameworks & Analysis
+**Networking:** TCP/IP, VLANs, DHCP, Static Routing, Cisco Packet Tracer
 
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/CyberChef-333333?style=flat-square&logoColor=white" />
-
-### Networking
-
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/VLANs-00599C?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/DHCP-00599C?style=flat-square&logoColor=white" />
-
-### Operating Systems
-
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+**Operating Systems:** Windows, Linux
 
 ---
 

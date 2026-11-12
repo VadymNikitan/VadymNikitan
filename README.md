@@ -101,11 +101,11 @@ A hands-on Security Operations lab built in Microsoft Azure, focused on realisti
 </a>
 <img src="https://img.shields.io/badge/Status-Active_Development-2EA44F?style=for-the-badge" />
 
-| Lab | Main Topics | Status |
+| Lab | Key Topics | Status |
 |---|---|---|
 | [Connecting Two LANs Using Static Routing](https://github.com/VadymNikitan/CISCO-Packet-Tracer-Labs/tree/main/01-connecting-two-lans-using-static-routing) | IPv4, Subnetting, Static Routing | Completed |
 | [Configure Trunks with Router-on-a-Stick](https://github.com/VadymNikitan/CISCO-Packet-Tracer-Labs/tree/main/02-configure-trunks-with-router-on-a-stick) | VLANs, 802.1Q, Inter-VLAN Routing | Completed |
-| [DHCP Configuration with VLANs](https://github.com/VadymNikitan/CISCO-Packet-Tracer-Labs/tree/main/03-configuration-dhcp) | DHCP Pools, IP Address Assignment, Excluded Addresses | Completed |
+| [DHCP Configuration with VLANs](https://github.com/VadymNikitan/CISCO-Packet-Tracer-Labs/tree/main/03-configuration-dhcp) | DHCP Configuration, Dynamic IP Assignment, Excluded Addresses | Completed |
 
 **Skills Demonstrated:**
 
